@@ -1,0 +1,6 @@
+Steps to Execute Code:
+	1. Copy the CGMData.csv and InsulinData.csv data files to the same directory where the main.py is located
+	2. Ensure that Python 3.6 to 3.8, scikit-learn==0.21.2, pandas==0.25.1, Python pickle is installed on the system and is upto date.
+	3. If not then install the packages, and then proceed with the further steps.
+	4. Run the python script using: "python main.py" command in terminal window
+	5. A "Results.csv" file will be generated in the same directory which contains the output for all the measures specified in the assignment instructions.
